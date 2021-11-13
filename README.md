@@ -23,16 +23,13 @@
 <p>jQuery component for a navigator.</p>
 <h3>Features</h3>
 <ul>
-  <li>Use buttons for handling media.</li>
+  <li>A navigator for paging through database records.</li>
   <li>Graphics are based on SVG.</li>
-  
-  <li>Buttons can be enabled/disabled.</li>
-  <li>Automatic state change.</li>
-  <li>Posibility for free buttons.</li>
-  <li>Function for creating SVG content elements.</li>
-  <li>Function for creating radial gradients.</li>
+  <li>Number of visible pages can be defined.</li>
+  <li>A page number parameter is generated and added to a given base url for every page.</li>
+  <li>An iframe target can be given for the page links.</li>
   <li>Colors can be changed.</li>
-  <li>Buttons can be scaled without losing space.</li>
+  <li>Can be scaled without losing space.</li>
 </ul>
 <h2>Contact</h2>
 <ul>
