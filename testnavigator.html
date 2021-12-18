@@ -36,7 +36,8 @@
             $(document).ready(function () {
                 var artistid = 93;
                 var baseUrl = "../../albumlist.html?artistid=" + artistid + "&isboxset=0" + "&boxsetid=0";
-                var navigator = new oyoNavigator(245, 10, 9);
+
+                var navigator = new oyoNavigator(30, 10, 9);
                 $(".container").append(navigator);
                 navigator.baseUrl = baseUrl;
                 navigator.pageTarget = "albums";
@@ -44,7 +45,7 @@
 //                navigator.changeBackgroundColor("red");
 //                navigator.changeFillColor("gold");
 //                navigator.resetColors();
-                navigator.setPage(5);
+                navigator.setPage(2);
             });
         </script>
     </head>
