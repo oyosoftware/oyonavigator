@@ -1,6 +1,6 @@
 # oyonavigator
-<a href="http://oyoweb.nl/music/plugins/oyonavigator/testnavigator.html" target="_blank">
-  <img src="http://oyoweb.nl/music/plugins/oyonavigator/oyonavigator.jpg" alt="oyobuttons">
+<a href="http://oyosoftware.nl/plugins/oyonavigator/testnavigator.html" target="_blank">
+  <img src="http://oyosoftware.nl/plugins/oyonavigator/oyonavigator.jpg" alt="oyobuttons">
 </a>
 <p>Navigator Component</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;currency_code=EUR&amp;business=code@oyosoftware.nl&amp;item_name=donation%20for%20oyonavigator" rel="nofollow">
@@ -15,7 +15,7 @@
   <li><strong>category</strong> component</li>
   <li><strong>copyright</strong> 2021 oyosoftware </li>
   <li><strong>license</strong> MIT License</li>
-  <li><strong>link</strong> http://www.oyoweb.nl/music/plugins/oyonavigator/testnavigator.html</li>
+  <li><strong>link</strong> http://www.oyosoftware.nl/plugins/oyonavigator/testnavigator.html</li>
   <li><strong>source</strong> https://github.com/oyosoftware/oyonavigator</li>
 </ul>
 <h2>Description</h2>
@@ -32,6 +32,6 @@
 </ul>
 <h2>Contact</h2>
 <ul>
-<li>oyosoftware <a href="mailto:software@oyoweb.nl">software@oyoweb.nl</a></li>
+<li>oyosoftware <a href="mailto:code@oyosoftware.nl">code@oyosoftware.nl</a></li>
 </ul>
 
